@@ -19,7 +19,7 @@ Take kemono pictures and lines up, then tanoshii!
 Technical Elements summary
 
 * [IFTTT](https://ifttt.com/discover)
-* [`tensorflow-models/object_detection`](https://github.com/tensorflow/models/tree/master/research/object_detection)
+* [tensorflow-models/object_detection](https://github.com/tensorflow/models/tree/master/research/object_detection)
 * [Matter.js](http://brm.io/matter-js/)
 * [HTML5 Audio](https://www.w3schools.com/html/html5_audio.asp)
 
