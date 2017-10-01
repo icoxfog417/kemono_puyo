@@ -106,7 +106,7 @@ var app = new Vue({
             if(presets.indexOf(name) < 0){
                 _name = "unknown";
             }
-            var file_path = "/static/audio/" + _name + ".mp3";
+            var file_path = "/static/audio/" + _name + ".wav";
             audio.src = file_path;
             setTimeout(function(){
                 console.log(audio.src);

@@ -1,6 +1,6 @@
-# kemono_panel
+# kemono puyo
 
-Take kemono pictures and lines up, then tanoshii
+Take kemono pictures and lines up, then tanoshii!
 
 ![demo](./doc/demo.gif)
 
