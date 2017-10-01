@@ -99,3 +99,8 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+models/
+model_weights/
+.vscode/
+_images/
