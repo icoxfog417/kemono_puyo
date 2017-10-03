@@ -4,6 +4,17 @@ Take kemono pictures and lines up, then tanoshii!
 
 ![demo](./doc/demo.gif)
 
+This is a toy application that made at the hackathon. It is inspired by following two concepts. 
+
+* [Kemono Friends](https://en.wikipedia.org/wiki/Kemono_Friends)
+  * The Kemono Friends is the Japanese animation that the story is like innocent animal character's adventure (`Kemono` means animal in Japanese).
+  * `Tanoshii` means so fun! It is the keyword in the Kemono Friends.
+* [Puyo Puyo](https://en.wikipedia.org/wiki/Puyo_Puyo)
+  * The Puyo Puyo is a puzzle game.
+  * It needs 4 Puyos to remove these originally, but I use 3 for simplify
+
+At first I tried to implement the feature to control the falling objects but to see the animal faces is so fun and cute. Because of this, I dropped its implementation.
+
 ## Architecture
 
 ![architecture](./doc/architecture.png)
